@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+
 
 char prol[7][10] = { "S", "A", "A", "B", "B", "C", "C" };
 char pror[7][10] = { "A", "Bb", "Cd", "aB", "@", "Cc", "@" };
